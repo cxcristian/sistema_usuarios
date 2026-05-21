@@ -91,6 +91,7 @@ Para usar variables de entorno en su propio equipo:
 La carga de estas variables la realiza el modulo `app/config/settings.py` usando la libreria `python-dotenv`.
 
 ![Variables de entorno](images/variablesEntorno.png)
+![Codigo de settings.py](images/settingCode.png)
 
 ## Estructura del Proyecto
 
