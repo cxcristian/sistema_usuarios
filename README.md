@@ -163,4 +163,4 @@ Repositorio individual en GitHub con:
 
 ## Reflexion Final
 
-[Enlace al video de YouTube sobre ventajas de modularizar, importancia de aislar dependencias y uso seguro de variables de entorno.]
+[Enlace al video de YouTube sobre ventajas de modularizar, importancia de aislar dependencias y uso seguro de variables de entorno.](https://youtu.be/8veWcc6JK_Q)

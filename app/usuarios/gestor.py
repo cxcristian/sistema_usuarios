@@ -1,4 +1,4 @@
-from .validaciones import validar_datos
+from .validaciones import validar_datos, validar_nombre
 
 ##=============Clase usuarios ============
 class DataBase:
@@ -14,6 +14,7 @@ class DataBase:
             print(f"Nombre: {usuario['nombre']}, Edad: {usuario['edad']}")
             
     def obtener_usuario(self, nombre):
+        validar_nombre(nombre)
         for usuario in self.usuarios:
             if usuario['nombre'] == nombre:
                 return usuario
